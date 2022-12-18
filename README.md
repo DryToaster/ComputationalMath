@@ -1,6 +1,6 @@
-# This is Nathan Nelson's personal repository for Math4610  
+# Computational Math Tools  
   
-This repo will contain my project for Math4610 and any personal additions I make.  
+This repo will contain updates on computational math tools created for previous coursework.  
 
 **Documentation Table of Contents:**  
 
